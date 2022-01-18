@@ -1,9 +1,7 @@
 <doctyp html!>
 <html>
 <body>
- 
- <h1> my first heding</h1>
- <p>first paragraph</p>
- 
+ <h1>mana pirmā lapa</h1>
+ <p>first paragrāfs</p>
  </body>
  </html> 
